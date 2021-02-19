@@ -1,0 +1,1 @@
+export const NEW_PROCUREMENT_REMARK = 'Up adjustment on procurement';

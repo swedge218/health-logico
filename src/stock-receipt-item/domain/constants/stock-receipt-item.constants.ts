@@ -1,0 +1,1 @@
+export const NEW_RECEIPT_REMARK = 'Up adjustment on stock receipt at facility';

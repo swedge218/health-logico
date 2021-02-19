@@ -1,0 +1,1 @@
+export const DEFAULT_UNIT_COST = 0.0;
